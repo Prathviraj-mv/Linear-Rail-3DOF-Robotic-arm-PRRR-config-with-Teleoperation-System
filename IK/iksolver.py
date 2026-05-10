@@ -32,7 +32,7 @@ class RPR:
             in_var = self.L2 * math.sin(e_angel1)
 
             s_angel1 = math.atan2(y, x) - math.atan2(in_var, im_var)
-            s_angel2 = math.degrees(s_angel1)
+            s_angel1 = math.degrees(s_angel1)
             e_angel1 = math.degrees(e_angel1)
 
             e_angel2 = -math.acos(D)
