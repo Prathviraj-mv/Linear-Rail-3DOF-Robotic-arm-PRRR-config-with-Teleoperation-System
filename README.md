@@ -1,5 +1,6 @@
 # Linear-Rail PRRR Robotic Arm
 
+
 > A mouse-controlled teleoperation system for a rail-mounted planar robotic arm, combining real-time inverse kinematics, a Pygame control interface, and Arduino-based motor control.
 
 ![Linear-rail robotic arm](IMAGES/WhatsApp%20Image%202026-05-15%20at%2022.38.59.jpeg)
